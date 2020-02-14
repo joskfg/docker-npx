@@ -5,3 +5,5 @@ WORKDIR /app
 
 ENTRYPOINT ["npx"]
 CMD ["--help"]
+
+LABEL maintainer="Peter J Langley"
