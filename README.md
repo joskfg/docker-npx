@@ -40,7 +40,7 @@ Use `npx` to run `mkdirp` in order to create some directories:
 ```
 $ docker run --rm -v `pwd`/.:/app -it pjlangley/npx mkdirp hello/world
 npx: installed 1 in 1.311s
-test $ tree
+$ tree
 .
 └── hello
     └── world
