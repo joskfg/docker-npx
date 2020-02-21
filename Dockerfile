@@ -1,4 +1,4 @@
-FROM node:12.16.0-alpine3.11
+FROM node:lts-alpine
 
 VOLUME /app
 WORKDIR /app

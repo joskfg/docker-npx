@@ -50,8 +50,7 @@ $ tree
 
 ## Software
 
-The upkeep intention is that `npx` will run on the latest node.js LTS version,
-and on the latest stable Linux Alpine version.
+Targets the latest LTS version of node and Linux Alpine..
 
 ## License
 
