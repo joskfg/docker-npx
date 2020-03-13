@@ -50,7 +50,7 @@ $ tree
 
 ## Software
 
-Targets the latest LTS version of node and Linux Alpine..
+Targets the latest LTS version of node and Linux Alpine.
 
 ## License
 
