@@ -3,7 +3,7 @@
 This docker image provides a dockerised version of `npx`. You can pull this
 [docker npx](https://hub.docker.com/r/joskfg/npx) image from Docker Hub.
 
-Based on [pjlangley/docker-npx](https://github.com/joskfg/docker-npx), but based in debian to avois jre errors in some packages.
+Based on [joskfg/docker-npx](https://github.com/joskfg/docker-npx), but based in debian to avois jre errors in some packages.
 
 ## Usage
 
