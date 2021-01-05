@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:lts-buster-slim
 
 VOLUME /app
 WORKDIR /app
@@ -6,4 +6,4 @@ WORKDIR /app
 ENTRYPOINT ["npx"]
 CMD ["--help"]
 
-LABEL maintainer="Peter J Langley"
+LABEL maintainer="Jose Manuel Cardona"
